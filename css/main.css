@@ -1,6 +1,6 @@
 body{
-	background-color:gray;
-	color: white;
+	background-color:#4a4a4a;
+	color: #b8b8b8;
 	font-family: sans-serif;
 	width: 50%;
 	border: 1px solid black;
@@ -22,7 +22,7 @@ padding: 60px;
 h2{
 
 font-weight: 600;
-font-family: sans-serif;
+font-family: futura;
 font-size: 30px;
 }
 
@@ -31,14 +31,22 @@ p{
 	font-size: 18px;
 	
 }
+strong{
+	color:white;
+}
 
 a{
-	font-family: sans-serif;
+
 	color: green;
 }
 
-nav {
+li{
+	padding: 8px;
+	font-family: futura;
+}
 
+nav {
+	padding: 12px;
 	text-align: center;
 }
 
@@ -53,5 +61,6 @@ img{
 }
 
 footer{
+	padding: 12px;
 	text-align: center;
 }
